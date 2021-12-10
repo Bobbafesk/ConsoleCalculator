@@ -10,6 +10,7 @@ namespace ConsoleCalculator
         {
             bool isAlive = true;
 
+
             while (isAlive)
             {
                 Console.WriteLine("Welcome to Anders Calculator!" +
